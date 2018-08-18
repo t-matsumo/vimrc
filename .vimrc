@@ -2,7 +2,6 @@ set autoread
 set ambiwidth=double
 set backspace=indent,eol,start
 set nobackup
-set colorcolumn=80
 set cursorline
 set display=lastline
 set encoding=utf8
